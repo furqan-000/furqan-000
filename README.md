@@ -13,6 +13,7 @@ I'm a motivated **Computer Science** planning on getting a minor in **Mathematic
 
 ### 📈 Featured Projects
 
+- **[Full Stack Crud](https://github.com/furqan-000/FULL_STACK_CRUD)** - A full-stack CRUD application built with React, Node.js/Express, and MongoDB for managing students and their academic publications. Includes RESTful APIs, routing, forms, and a clean UI.
 - **[Emotion Detector](https://github.com/furqan-000/emotionDetector)** – An AI-powered web app using Flask and IBM Watson for real-time emotion detection in text.
 - **[BookReviews](https://github.com/furqan-000/BookReviews)** – A robust REST API built with Node.js and Express for managing book reviews.
 - **[ShoppingApplication](https://github.com/furqan-000/ShoppingApplication)** – An interactive React app for an online plant shop with a dynamic shopping cart.
