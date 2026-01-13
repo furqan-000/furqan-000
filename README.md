@@ -13,13 +13,14 @@ I'm a motivated **Computer Science** planning on getting a minor in **Mathematic
 
 ### 📈 Featured Projects
 
+- **[Options Pricing Simulator](https://github.com/furqan-000/Options_pricing)** - A performance-optimized Monte Carlo simulator for financial options with 3D volatility visualization and convergence analysis. Features vectorized NumPy implementation achieving 2x speedup over loop-based methods.
 - **[Full Stack Crud](https://github.com/furqan-000/FULL_STACK_CRUD)** - A full-stack CRUD application built with React, Node.js/Express, and MongoDB for managing students and their academic publications. Includes RESTful APIs, routing, forms, and a clean UI.
 - **[Emotion Detector](https://github.com/furqan-000/emotionDetector)** – An AI-powered web app using Flask and IBM Watson for real-time emotion detection in text.
 - **[BookReviews](https://github.com/furqan-000/BookReviews)** – A robust REST API built with Node.js and Express for managing book reviews.
 - **[ShoppingApplication](https://github.com/furqan-000/ShoppingApplication)** – An interactive React app for an online plant shop with a dynamic shopping cart.
 
 ---
-*Open to Summer 2026 Internship opportunities in Software Engineering and Quantitative Finance.*
+*Open to Summer 2026 Internship opportunities in Software Engineering and Quantitative Finance, and Data Science Research.*
 
 <!--
 **furqan-000/furqan-000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
