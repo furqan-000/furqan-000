@@ -1,24 +1,29 @@
 ### Hi there, I'm Furqan Ali 👋
 
-I'm a motivated **Computer Science** planning on getting a minor in **Mathematics**. My passion lies at the intersection of software engineering and quantitative finance—using code to solve complex, data-driven problems.
+I'm a **Computer Science** student at the University of Illinois Chicago with a minor in **Mathematics**, graduating May 2027. I'm interested in AI safety research, software engineering, and quantitative finance.
 
-- 🔭 I’m currently working on honing my skills in Python and full-stack development.
-- 🌱 I’m learning about **options pricing models, market microstructure, and data analysis** with Pandas.
+- 🔭 I'm currently applying to the Anthropic Fellows Program (July 2026) to work on empirical AI safety research.
+- 🌱 I'm learning about **mechanistic interpretability, adversarial robustness, and AI alignment**.
+- 📄 Research contributor on a peer-reviewed paper accepted at SIGCSE TS 2026: *"Aligning Small Language Models for Programming Feedback"* — Stanford/Aalto University. [View project →](https://github.com/KoutchemeCharles/cip25-aiep)
 - 👨‍💻 All of my projects are available here on my GitHub.
 - 📫 How to reach me: [furqan.ali8093@gmail.com](mailto:furqan.ali8093@gmail.com) | [LinkedIn](https://www.linkedin.com/in/furqan-ali000/)
 
 ### 🛠️ Technical Skills
+
 **Languages:** Python (NumPy, Pandas), SQL, JavaScript, C++  
-**Tools & Technologies:** Git, GitHub, Node.js, React, Express.js, Linux/CLI, Jupyter
+**Tools & Technologies:** Git, GitHub, Node.js, React, Express.js, Linux/CLI, Jupyter  
+**AI/ML:** LLM evaluation, preference-based fine-tuning, IBM Watson NLP, Monte Carlo simulation  
+**Interests:** AI Safety, Adversarial Robustness, Full-Stack Development, Quantitative Finance
+
+### 📄 Research
+
+- **[CIP-AIEP — Aligning Small Language Models for Programming Feedback](https://github.com/KoutchemeCharles/cip25-aiep)** — Contributor on a Stanford/Aalto University project that fine-tuned a 3B-parameter SLM using supervised fine-tuning and preference-based optimization. Deployed in Code In Place, a global MOOC. Accepted at SIGCSE TS 2026.
 
 ### 📈 Featured Projects
 
-- **[Options Pricing Simulator](https://github.com/furqan-000/Options_pricing)** - A performance-optimized Monte Carlo simulator for financial options with 3D volatility visualization and convergence analysis. Features vectorized NumPy implementation achieving 2x speedup over loop-based methods.
-- **[Full Stack Crud](https://github.com/furqan-000/FULL_STACK_CRUD)** - A full-stack CRUD application built with React, Node.js/Express, and MongoDB for managing students and their academic publications. Includes RESTful APIs, routing, forms, and a clean UI.
-- **[Emotion Detector](https://github.com/furqan-000/emotionDetector)** – An AI-powered web app using Flask and IBM Watson for real-time emotion detection in text.
-- **[BookReviews](https://github.com/furqan-000/BookReviews)** – A robust REST API built with Node.js and Express for managing book reviews.
-- **[ShoppingApplication](https://github.com/furqan-000/ShoppingApplication)** – An interactive React app for an online plant shop with a dynamic shopping cart.
-
+- **[Options Pricing Simulator](https://github.com/furqan-000/Options_pricing)** — Monte Carlo simulator for financial options with 3D volatility visualization and convergence analysis. Vectorized NumPy implementation with 2x speedup over loop-based methods. Includes Black-Scholes comparison and stress testing under volatility smiles and skew.
+- **[Full Stack CRUD System](https://github.com/furqan-000/FULL_STACK_CRUD)** — Full-stack application built with React, Node.js/Express, and MySQL for managing students and academic publications. RESTful API design with clean routing, controller logic, and CORS configuration.
+- **[Emotion Detector](https://github.com/furqan-000/emotionDetector)** — AI-powered web app using Flask and IBM Watson NLP for real-time emotion classification in text. Includes web scraping with BeautifulSoup and text preprocessing with Pandas/NumPy.
 ---
 *Open to Summer 2026 Internship opportunities in Software Engineering and Quantitative Finance, and Data Science Research.*
 
