@@ -25,9 +25,10 @@ I'm a **Computer Science** student at the University of Illinois Chicago with a 
 - **[Full Stack CRUD System](https://github.com/furqan-000/FULL_STACK_CRUD)** — Full-stack application built with React, Node.js/Express, and MySQL for managing students and academic publications. RESTful API design with clean routing, controller logic, and CORS configuration.
 - **[Emotion Detector](https://github.com/furqan-000/emotionDetector)** — AI-powered web app using Flask and IBM Watson NLP for real-time emotion classification in text. Includes web scraping with BeautifulSoup and text preprocessing with Pandas/NumPy.
 ---
-*Open to Summer 2026 Internship opportunities in Software Engineering and Quantitative Finance, and Data Science Research.*
+
 
 <!--
+*Open to Summer 2026 Internship opportunities in Software Engineering and Quantitative Finance, and Data Science Research.*
 **furqan-000/furqan-000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
