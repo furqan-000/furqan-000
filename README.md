@@ -2,7 +2,6 @@
 
 I'm a **Computer Science** student at the University of Illinois Chicago with a minor in **Mathematics**, graduating May 2027. I'm interested in AI safety research, software engineering, and quantitative finance.
 
-- 🔭 I'm currently applying to the Anthropic Fellows Program (July 2026) to work on empirical AI safety research.
 - 🌱 I'm learning about **mechanistic interpretability, adversarial robustness, and AI alignment**.
 - 📄 Research contributor on a peer-reviewed paper accepted at SIGCSE TS 2026: *"Aligning Small Language Models for Programming Feedback"* — Stanford/Aalto University. [View project →](https://github.com/KoutchemeCharles/cip25-aiep)
 - 👨‍💻 All of my projects are available here on my GitHub.
