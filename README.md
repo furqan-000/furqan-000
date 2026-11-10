@@ -1,6 +1,6 @@
 ### Hi there, I'm Furqan Ali 👋
 
-I'm a **Computer Science** student at the **University of Illinois Chicago**, pursuing a minor in **Mathematics**, with an expected graduation date of **May 2028**.
+I'm a **Computer Science** student at the **University of Illinois Chicago**, pursuing a minor in **Mathematics**, with an expected graduation date of **2028**.
 
 I'm interested in **AI safety research, software engineering, and quantitative finance**, particularly building reliable software and exploring how AI systems can be evaluated and improved.
 
